@@ -3,7 +3,7 @@ title: "README.md"
 date: "06/20/2015"
 output: html_document
 ---
- *Key steps that were taken to transfrom the given data set in to Tidy data set*
+ *Key steps that were taken to transform the given data set in to tidy data set*
 ===================================================================================================
  - Given samsung data set was downloaded ,unziped and saved in working  directory called "Project".
  - **```X_train.txt```** and **```X_test.txt```** were read as **```XTrain```** and **```XTest```** and merged in to **```Xmerged```**.
